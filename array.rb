@@ -3,5 +3,6 @@
 	puts x	
 	puts x.length
 end
-
+fgdghdfhjf
 end
+
